@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Inlämningsuppgift2/Inlämningsuppgift2.iml" filepath="$PROJECT_DIR$/Inlämningsuppgift2/Inlämningsuppgift2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Java.iml" filepath="$PROJECT_DIR$/.idea/Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Uppgift3/Uppgift3.iml" filepath="$PROJECT_DIR$/Uppgift3/Uppgift3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/UppgiftVg/UppgiftVg.iml" filepath="$PROJECT_DIR$/UppgiftVg/UppgiftVg.iml" />
+      <module fileurl="file://$PROJECT_DIR$/InlämningUppgift1/del1/del1.iml" filepath="$PROJECT_DIR$/InlämningUppgift1/del1/del1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/InlämningUppgift1/del2/del2.iml" filepath="$PROJECT_DIR$/InlämningUppgift1/del2/del2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lektion2/demo1/demo1.iml" filepath="$PROJECT_DIR$/lektion2/demo1/demo1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lektion3/demo1/demo11.iml" filepath="$PROJECT_DIR$/lektion3/demo1/demo11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lektion1/lektion1.iml" filepath="$PROJECT_DIR$/lektion1/lektion1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lektion10/lektion10.iml" filepath="$PROJECT_DIR$/lektion10/lektion10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lektion4/lektion4.iml" filepath="$PROJECT_DIR$/lektion4/lektion4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lektion5/lektion5.iml" filepath="$PROJECT_DIR$/lektion5/lektion5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lektion7/lektion7.iml" filepath="$PROJECT_DIR$/lektion7/lektion7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lektion9/lektion9.iml" filepath="$PROJECT_DIR$/lektion9/lektion9.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lektion3/ovning1/ovning1.iml" filepath="$PROJECT_DIR$/lektion3/ovning1/ovning1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lektion2/ovning1/ovning11.iml" filepath="$PROJECT_DIR$/lektion2/ovning1/ovning11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lektion2/ovning2/ovning2.iml" filepath="$PROJECT_DIR$/lektion2/ovning2/ovning2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/toshiko.iml" filepath="$PROJECT_DIR$/toshiko.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lektion2/uppgift1/uppgift1.iml" filepath="$PROJECT_DIR$/lektion2/uppgift1/uppgift1.iml" />
+    </modules>
+  </component>
+</project>
